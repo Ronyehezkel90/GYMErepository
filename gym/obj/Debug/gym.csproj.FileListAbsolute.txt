@@ -1,0 +1,144 @@
+C:\Users\amirbe3\Desktop\gym\gym\bin\Debug\gym.exe.config
+C:\Users\DorinS\Desktop\gym\gym\bin\Debug\gym.exe.config
+C:\Users\DorinS\Desktop\gym\gym\bin\Debug\gym.exe
+C:\Users\DorinS\Desktop\gym\gym\bin\Debug\gym.pdb
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.Main.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.Properties.Resources.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.exe
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.pdb
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.Clients.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.trainers.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.training.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.RegisterActiveTraining.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.Resources.Resources.resources
+C:\Users\DorinS\Desktop\gym\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+S:\gym\gym\bin\Debug\gym.exe.config
+S:\gym\gym\obj\Debug\gym.exe
+S:\gym\gym\obj\Debug\gym.pdb
+S:\gym\gym\bin\Debug\gym.exe
+S:\gym\gym\bin\Debug\gym.pdb
+S:\gym\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+S:\gym\gym\obj\Debug\gym.Main.resources
+S:\gym\gym\obj\Debug\gym.Clients.resources
+S:\gym\gym\obj\Debug\gym.RegisterActiveTraining.resources
+S:\gym\gym\obj\Debug\gym.Resources.Resources.resources
+S:\gym\gym\obj\Debug\gym.trainers.resources
+S:\gym\gym\obj\Debug\gym.training.resources
+S:\gym\gym\obj\Debug\gym.Properties.Resources.resources
+S:\gym\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+F:\ניתוצ תכנות\gym\gym\bin\Debug\gym.exe.config
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.exe
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.pdb
+F:\ניתוצ תכנות\gym\gym\bin\Debug\gym.exe
+F:\ניתוצ תכנות\gym\gym\bin\Debug\gym.pdb
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.Main.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.Clients.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.RegisterActiveTraining.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.Resources.Resources.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.trainers.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.training.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.Properties.Resources.resources
+F:\ניתוצ תכנות\gym\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+C:\Users\רון\Desktop\gym1\gym\bin\Debug\gym.exe.config
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.exe
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.pdb
+C:\Users\רון\Desktop\gym1\gym\bin\Debug\gym.exe
+C:\Users\רון\Desktop\gym1\gym\bin\Debug\gym.pdb
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.Main.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.Clients.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.RegisterActiveTraining.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.Resources.Resources.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.trainers.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.training.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.Properties.Resources.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.view.Secretery.resources
+C:\Users\רון\Desktop\gym1\gym\obj\Debug\gym.view.SignIn.resources
+S:\gym1\gym\bin\Debug\gym.exe.config
+S:\gym1\gym\obj\Debug\gym.exe
+S:\gym1\gym\obj\Debug\gym.pdb
+S:\gym1\gym\bin\Debug\gym.exe
+S:\gym1\gym\bin\Debug\gym.pdb
+S:\gym1\gym\obj\Debug\gym.Main.resources
+S:\gym1\gym\obj\Debug\gym.Clients.resources
+S:\gym1\gym\obj\Debug\gym.RegisterActiveTraining.resources
+S:\gym1\gym\obj\Debug\gym.Resources.Resources.resources
+S:\gym1\gym\obj\Debug\gym.view.Secretery.resources
+S:\gym1\gym\obj\Debug\gym.view.SignIn.resources
+S:\gym1\gym\obj\Debug\gym.trainers.resources
+S:\gym1\gym\obj\Debug\gym.training.resources
+S:\gym1\gym\obj\Debug\gym.Properties.Resources.resources
+S:\gym1\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+S:\gym1\gym\obj\Debug\gym.view.General_Manager.resources
+S:\gym1\gym\obj\Debug\gym.view.Trainer.resources
+S:\gym1\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+S:\gym1\gym\obj\Debug\gym.view.Client.resources
+S:\gym1\gym\obj\Debug\gym.view.MarketingManager.resources
+S:\gym1\gym\obj\Debug\gym.view.PurchasingManager.resources
+C:\Users\pshaviv\Desktop\gym1\gym\bin\Debug\gym.exe.config
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.exe
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.pdb
+C:\Users\pshaviv\Desktop\gym1\gym\bin\Debug\gym.exe
+C:\Users\pshaviv\Desktop\gym1\gym\bin\Debug\gym.pdb
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.Client.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.General_Manager.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.Main.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.Clients.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.MarketingManager.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.PurchasingManager.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.RegisterActiveTraining.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.Resources.Resources.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.Secretery.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.SignIn.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.view.Trainer.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.trainers.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.training.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.Properties.Resources.resources
+C:\Users\pshaviv\Desktop\gym1\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+D:\gym1\gym\bin\Debug\gym.exe.config
+D:\gym1\gym\obj\Debug\gym.exe
+D:\gym1\gym\obj\Debug\gym.pdb
+D:\gym1\gym\bin\Debug\gym.exe
+D:\gym1\gym\bin\Debug\gym.pdb
+D:\gym1\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+D:\gym1\gym\obj\Debug\gym.view.Client.resources
+D:\gym1\gym\obj\Debug\gym.view.General_Manager.resources
+D:\gym1\gym\obj\Debug\gym.Main.resources
+D:\gym1\gym\obj\Debug\gym.Clients.resources
+D:\gym1\gym\obj\Debug\gym.view.MarketingManager.resources
+D:\gym1\gym\obj\Debug\gym.view.PurchasingManager.resources
+D:\gym1\gym\obj\Debug\gym.RegisterActiveTraining.resources
+D:\gym1\gym\obj\Debug\gym.Resources.Resources.resources
+D:\gym1\gym\obj\Debug\gym.view.Secretery.resources
+D:\gym1\gym\obj\Debug\gym.view.Trainer.resources
+D:\gym1\gym\obj\Debug\gym.trainers.resources
+D:\gym1\gym\obj\Debug\gym.training.resources
+D:\gym1\gym\obj\Debug\gym.Properties.Resources.resources
+D:\gym1\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+E:\gym1\gym\bin\Debug\gym.exe.config
+E:\gym1\gym\obj\Debug\gym.exe
+E:\gym1\gym\obj\Debug\gym.pdb
+E:\gym1\gym\bin\Debug\gym.exe
+E:\gym1\gym\bin\Debug\gym.pdb
+E:\gym1\gym\obj\Debug\gym.csprojResolveAssemblyReference.cache
+E:\gym1\gym\obj\Debug\gym.view.Client.resources
+E:\gym1\gym\obj\Debug\gym.view.General_Manager.resources
+E:\gym1\gym\obj\Debug\gym.Main.resources
+E:\gym1\gym\obj\Debug\gym.Clients.resources
+E:\gym1\gym\obj\Debug\gym.view.MarketingManager.resources
+E:\gym1\gym\obj\Debug\gym.view.PurchasingManager.resources
+E:\gym1\gym\obj\Debug\gym.RegisterActiveTraining.resources
+E:\gym1\gym\obj\Debug\gym.Resources.Resources.resources
+E:\gym1\gym\obj\Debug\gym.view.Secretery.resources
+E:\gym1\gym\obj\Debug\gym.view.Trainer.resources
+E:\gym1\gym\obj\Debug\gym.trainers.resources
+E:\gym1\gym\obj\Debug\gym.training.resources
+E:\gym1\gym\obj\Debug\gym.Properties.Resources.resources
+E:\gym1\gym\obj\Debug\gym.csproj.GenerateResource.Cache
+C:\Users\Ron\Desktop\gym1\gym\bin\Debug\gym.exe.config
+C:\Users\Ron\Desktop\gym1\gym\obj\Debug\gym.exe
+C:\Users\Ron\Desktop\gym1\gym\obj\Debug\gym.pdb

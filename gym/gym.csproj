@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E1D8345-DA74-40F6-955F-4A7F8F238E8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>gym</RootNamespace>
+    <AssemblyName>gym</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="controler\Controler.cs" />
+    <Compile Include="controler\IControler.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="view\Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Client.Designer.cs">
+      <DependentUpon>Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\General Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\General Manager.Designer.cs">
+      <DependentUpon>General Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\IModel.cs" />
+    <Compile Include="model\Model.cs" />
+    <Compile Include="view\MarketingManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\MarketingManager.Designer.cs">
+      <DependentUpon>MarketingManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\PurchasingManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\PurchasingManager.Designer.cs">
+      <DependentUpon>PurchasingManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\RegisterActiveTraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\RegisterActiveTraining.Designer.cs">
+      <DependentUpon>RegisterActiveTraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Secretery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Secretery.Designer.cs">
+      <DependentUpon>Secretery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Trainer.Designer.cs">
+      <DependentUpon>Trainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\trainers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\trainers.Designer.cs">
+      <DependentUpon>trainers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\training.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\training.Designer.cs">
+      <DependentUpon>training.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="view\Client.resx">
+      <DependentUpon>Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\General Manager.resx">
+      <DependentUpon>General Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\MarketingManager.resx">
+      <DependentUpon>MarketingManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\PurchasingManager.resx">
+      <DependentUpon>PurchasingManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\RegisterActiveTraining.resx">
+      <DependentUpon>RegisterActiveTraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Resources.resx" />
+    <EmbeddedResource Include="view\Secretery.resx">
+      <DependentUpon>Secretery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Trainer.resx">
+      <DependentUpon>Trainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\trainers.resx">
+      <DependentUpon>trainers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\training.resx">
+      <DependentUpon>training.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gym.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.PNG" />
+    <None Include="Resources\Clients.png" />
+    <None Include="Resources\instructor.png" />
+    <None Include="Resources\Cust.png" />
+    <None Include="Resources\Marketing.png" />
+    <None Include="Resources\Purchasing.png" />
+    <None Include="Resources\newTrainer.png" />
+    <None Include="Resources\addCourse.png" />
+    <Content Include="Resources\signIn1.PNG" />
+    <None Include="Resources\signIn2.png" />
+    <Content Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
