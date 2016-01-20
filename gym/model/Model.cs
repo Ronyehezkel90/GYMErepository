@@ -10,6 +10,7 @@ namespace gym.model
 {
     class Model: IModel
     {
+        //roni
 
         public  void ExecuteNonQuery(string query)
         {
