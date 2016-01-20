@@ -145,3 +145,6 @@ C:\Users\Ron\Desktop\gym1\gym\obj\Debug\gym.pdb
 C:\Users\shay\GYMErepository\gym\bin\Debug\gym.exe.config
 C:\Users\shay\GYMErepository\gym\obj\Debug\gym.exe
 C:\Users\shay\GYMErepository\gym\obj\Debug\gym.pdb
+C:\Users\Ron\Desktop\gym1\GYMErepository\gym\bin\Debug\gym.exe.config
+C:\Users\Ron\Desktop\gym1\GYMErepository\gym\obj\Debug\gym.exe
+C:\Users\Ron\Desktop\gym1\GYMErepository\gym\obj\Debug\gym.pdb

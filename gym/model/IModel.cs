@@ -12,7 +12,7 @@ namespace gym.model
          void ExecuteNonQuery(string query);
          DataTable ExecuteDataTable(string query);
 
-
+        //
 
     }
 }
