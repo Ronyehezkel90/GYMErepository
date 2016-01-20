@@ -14,6 +14,7 @@ namespace gym
 {
     public partial class trainers : Form
     {
+        //Irena
         IControler controler;
         public trainers()
         {
